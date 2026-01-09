@@ -17,10 +17,21 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 <img width="519" height="81" alt="Screenshot 2026-01-08 210202" src="https://github.com/user-attachments/assets/bf5df2d5-3002-42c4-8b24-fb9444fdfcb9" />
 
+<img width="1356" height="608" alt="Screenshot 2026-01-08 210210" src="https://github.com/user-attachments/assets/a49ef005-a384-4ad5-9fc7-a82f66faaece" />
 
 ## Evidence (Screenshots)
 
-- Groups created: ![Groups](screenshots/01-groups-all.png)
+- Groups created: 
+
+<img width="224" height="122" alt="Screenshot 2026-01-08 210241" src="https://github.com/user-attachments/assets/827e122b-ff64-46af-ac4e-63eebd627e5a" />
+
+<img width="151" height="46" alt="Screenshot 2026-01-08 210323" src="https://github.com/user-attachments/assets/5b1c6d82-d6ba-4448-8bf4-081b2c273de3" />
+
+<img width="1358" height="602" alt="Screenshot 2026-01-08 210549" src="https://github.com/user-attachments/assets/5467f010-022b-4cc2-aec5-5280820ee1c2" />
+
+<img width="840" height="597" alt="Screenshot 2026-01-08 210942" src="https://github.com/user-attachments/assets/f61c1bfc-f502-42c2-a72d-b43d101e79b3" />
+
+
 - User creation: ![Create user](screenshots/02-create-user.png)
 - Users list: ![Users](screenshots/03-users-all.png)
 - IT admin group membership: ![IT Admins](screenshots/04-it-admins-members.png)
