@@ -31,7 +31,14 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 
 
-- User creation: ![Create user](screenshots/02-create-user.png)
+- User creation:
+
+<img width="355" height="183" alt="Screenshot 2026-01-08 211028" src="https://github.com/user-attachments/assets/c3094ef3-6342-4d29-9216-39bad6086896" />
+
+<img width="840" height="597" alt="Screenshot 2026-01-08 210942" src="https://github.com/user-attachments/assets/2d57e092-a332-4ada-b2ab-35d3e948c4eb" />
+
+<img width="1364" height="602" alt="Screenshot 2026-01-08 211234" src="https://github.com/user-attachments/assets/0d0656f2-1fce-41b2-b8d1-105cbc1d3dc3" />
+
 - Users list: ![Users](screenshots/03-users-all.png)
 - IT admin group membership: ![IT Admins](screenshots/04-it-admins-members.png)
 - Role assignment (User Administrator): ![Role](screenshots/10-user-admin-role-assignments.png)
