@@ -13,9 +13,10 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 > Note: Screenshots in this repo are **redacted** (tenant/email + MFA QR/code removed) so they’re safe to publish.
 
-## Architecture
+## Azure Entra ID
 
-![Architecture](architecture/architecture.png)
+<img width="519" height="81" alt="Screenshot 2026-01-08 210202" src="https://github.com/user-attachments/assets/bf5df2d5-3002-42c4-8b24-fb9444fdfcb9" />
+
 
 ## Evidence (Screenshots)
 
