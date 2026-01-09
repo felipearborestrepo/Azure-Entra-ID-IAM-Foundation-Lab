@@ -41,7 +41,20 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 <img width="1364" height="602" alt="Screenshot 2026-01-08 211234" src="https://github.com/user-attachments/assets/0d0656f2-1fce-41b2-b8d1-105cbc1d3dc3" />
 
-- IT admin group membership: ![IT Admins](screenshots/04-it-admins-members.png)
+## IT admin group membership: 
+
+<img width="423" height="135" alt="Screenshot 2026-01-08 211408" src="https://github.com/user-attachments/assets/2620fb20-831e-4931-9565-d9ecc0b32dcc" />
+
+<img width="443" height="54" alt="Screenshot 2026-01-08 211423" src="https://github.com/user-attachments/assets/06a83ec2-977b-4dd0-a2b8-b2b2a6e17711" />
+
+<img width="955" height="447" alt="Screenshot 2026-01-08 211501" src="https://github.com/user-attachments/assets/56e6734f-9140-42d3-85de-48402ea13c5f" />
+
+<img width="950" height="520" alt="Screenshot 2026-01-08 211708" src="https://github.com/user-attachments/assets/3df20dd2-38cc-4e6e-a6c1-94a475835339" />
+
+<img width="949" height="557" alt="Screenshot 2026-01-08 211802" src="https://github.com/user-attachments/assets/e43f223f-67c4-4518-8ae7-4fa94e4355c6" />
+
+<img width="942" height="532" alt="Screenshot 2026-01-08 211901" src="https://github.com/user-attachments/assets/f949213c-d130-4afa-89d9-da3b41aed33a" />
+
 - Role assignment (User Administrator): ![Role](screenshots/10-user-admin-role-assignments.png)
 - Security defaults enabled: ![Security defaults](screenshots/11-security-defaults-enabled.png)
 - MFA enrollment flow:  
