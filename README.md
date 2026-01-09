@@ -55,7 +55,18 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 <img width="942" height="532" alt="Screenshot 2026-01-08 211901" src="https://github.com/user-attachments/assets/f949213c-d130-4afa-89d9-da3b41aed33a" />
 
-- Role assignment (User Administrator): ![Role](screenshots/10-user-admin-role-assignments.png)
+## Role assignment (User Administrator): 
+
+<img width="252" height="33" alt="Screenshot 2026-01-08 211942" src="https://github.com/user-attachments/assets/755390b0-edee-4d37-9f6a-5c7512301f1d" />
+
+<img width="596" height="313" alt="Screenshot 2026-01-08 212012" src="https://github.com/user-attachments/assets/9237ca4a-3cfb-41f8-a626-e431215f365e" />
+
+<img width="420" height="122" alt="Screenshot 2026-01-08 212029" src="https://github.com/user-attachments/assets/4a4752d2-2e81-457c-af05-76801678d72e" />
+
+<img width="755" height="317" alt="Screenshot 2026-01-08 212051" src="https://github.com/user-attachments/assets/96f0d6a0-7b19-443e-86bd-dcf1692b7246" />
+
+<img width="1359" height="605" alt="Screenshot 2026-01-08 212106" src="https://github.com/user-attachments/assets/5fdd6880-5f77-4e66-8ef5-a579e072ab6a" />
+
 - Security defaults enabled: ![Security defaults](screenshots/11-security-defaults-enabled.png)
 - MFA enrollment flow:  
   ![MFA](screenshots/12-mfa-keep-account-secure.png)  
