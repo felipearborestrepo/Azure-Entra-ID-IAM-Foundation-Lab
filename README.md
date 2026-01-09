@@ -21,7 +21,7 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 ## Evidence (Screenshots)
 
-- Groups created: 
+## Groups created: 
 
 <img width="224" height="122" alt="Screenshot 2026-01-08 210241" src="https://github.com/user-attachments/assets/827e122b-ff64-46af-ac4e-63eebd627e5a" />
 
@@ -31,7 +31,7 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 
 
-- User creation:
+## User creation:
 
 <img width="355" height="183" alt="Screenshot 2026-01-08 211028" src="https://github.com/user-attachments/assets/c3094ef3-6342-4d29-9216-39bad6086896" />
 
@@ -39,7 +39,10 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 <img width="1364" height="602" alt="Screenshot 2026-01-08 211234" src="https://github.com/user-attachments/assets/0d0656f2-1fce-41b2-b8d1-105cbc1d3dc3" />
 
-- Users list: ![Users](screenshots/03-users-all.png)
+## Users list: 
+
+<img width="1364" height="602" alt="Screenshot 2026-01-08 211234" src="https://github.com/user-attachments/assets/0d0656f2-1fce-41b2-b8d1-105cbc1d3dc3" />
+
 - IT admin group membership: ![IT Admins](screenshots/04-it-admins-members.png)
 - Role assignment (User Administrator): ![Role](screenshots/10-user-admin-role-assignments.png)
 - Security defaults enabled: ![Security defaults](screenshots/11-security-defaults-enabled.png)
