@@ -1,5 +1,7 @@
 # Azure / Microsoft Entra ID IAM Foundation Lab (Beginner)
 
+<img width="1536" height="1024" alt="ChatGPT Image Jan 8, 2026, 10_26_37 PM" src="https://github.com/user-attachments/assets/1687c90f-c2a4-4630-ad9c-6d84ada02482" />
+
 This repo documents a hands-on Identity & Access Management (IAM) lab built in **Microsoft Azure** using **Microsoft Entra ID**.
 
 ## What I built
@@ -90,12 +92,6 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 <img width="442" height="465" alt="Screenshot 2026-01-08 213231" src="https://github.com/user-attachments/assets/d677f74c-faf6-4620-ba67-f730cb3abaa1" />
 
 <img width="1347" height="599" alt="Screenshot 2026-01-08 213315" src="https://github.com/user-attachments/assets/dc39745d-9ac7-4dfd-870b-d4891bbc7e53" />
-
-## Documentation
-
-- **Build steps:** `docs/build-steps.md`
-- **Troubleshooting notes:** `docs/troubleshooting.md`
-- **Lessons learned:** `docs/lessons-learned.md`
 
 ## Skills demonstrated
 
