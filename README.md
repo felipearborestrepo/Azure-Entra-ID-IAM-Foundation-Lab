@@ -37,8 +37,6 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 <img width="840" height="597" alt="Screenshot 2026-01-08 210942" src="https://github.com/user-attachments/assets/2d57e092-a332-4ada-b2ab-35d3e948c4eb" />
 
-<img width="1364" height="602" alt="Screenshot 2026-01-08 211234" src="https://github.com/user-attachments/assets/0d0656f2-1fce-41b2-b8d1-105cbc1d3dc3" />
-
 ## Users list: 
 
 <img width="1364" height="602" alt="Screenshot 2026-01-08 211234" src="https://github.com/user-attachments/assets/0d0656f2-1fce-41b2-b8d1-105cbc1d3dc3" />
