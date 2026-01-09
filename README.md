@@ -65,12 +65,31 @@ This repo documents a hands-on Identity & Access Management (IAM) lab built in *
 
 <img width="1359" height="605" alt="Screenshot 2026-01-08 212106" src="https://github.com/user-attachments/assets/5fdd6880-5f77-4e66-8ef5-a579e072ab6a" />
 
-- Security defaults enabled: ![Security defaults](screenshots/11-security-defaults-enabled.png)
-- MFA enrollment flow:  
-  ![MFA](screenshots/12-mfa-keep-account-secure.png)  
-  ![MFA install](screenshots/13-mfa-install-authenticator.png)  
-  ![MFA number match](screenshots/16-mfa-number-match.png)  
-  ![MFA added](screenshots/17-mfa-authenticator-added.png)
+## Security defaults enabled:
+
+<img width="428" height="548" alt="Screenshot 2026-01-08 212211" src="https://github.com/user-attachments/assets/4c7b9c2d-660e-4ec4-b64c-7db2f5c86c23" />
+
+## MFA enrollment flow:  
+
+<img width="1365" height="717" alt="Screenshot 2026-01-08 212620" src="https://github.com/user-attachments/assets/82f075c9-95f2-49a9-a86d-59624a29b460" />
+
+<img width="1362" height="716" alt="Screenshot 2026-01-08 212648" src="https://github.com/user-attachments/assets/f96389a2-ec6d-47ec-8d9d-2fcf7208c467" />
+
+<img width="467" height="417" alt="Screenshot 2026-01-08 212740" src="https://github.com/user-attachments/assets/ad1e58e7-8764-427b-ac07-81cbb1d0dd6b" />
+
+<img width="475" height="543" alt="Screenshot 2026-01-08 212752" src="https://github.com/user-attachments/assets/0b544f2e-6235-48b3-8713-30a8f913614f" />
+
+<img width="480" height="501" alt="Screenshot 2026-01-08 212813" src="https://github.com/user-attachments/assets/c065d717-aee9-4090-96e1-85e81f97dfd4" />
+
+<img width="481" height="429" alt="Screenshot 2026-01-08 212912" src="https://github.com/user-attachments/assets/5d9e2615-c411-4fdd-a15a-f198a4530263" />
+
+<img width="435" height="460" alt="Screenshot 2026-01-08 213210" src="https://github.com/user-attachments/assets/5bd3ebd6-eb17-4873-be90-e0c06b9e39c5" />
+
+<img width="603" height="1311" alt="IMG_9411" src="https://github.com/user-attachments/assets/c6b940a9-779d-4129-be46-5cf73a59e77b" />
+
+<img width="442" height="465" alt="Screenshot 2026-01-08 213231" src="https://github.com/user-attachments/assets/d677f74c-faf6-4620-ba67-f730cb3abaa1" />
+
+<img width="1347" height="599" alt="Screenshot 2026-01-08 213315" src="https://github.com/user-attachments/assets/dc39745d-9ac7-4dfd-870b-d4891bbc7e53" />
 
 ## Documentation
 
